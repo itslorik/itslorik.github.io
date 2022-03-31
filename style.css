@@ -36,7 +36,10 @@ p{
     margin-left: 1rem;
 }
 .vl{
-    margin-left: 17rem;
+    margin-right: 16rem;
     border-left: 3px solid black;
     height: 500px;
+}
+.class {
+	text-align: center;
 }
