@@ -5,3 +5,38 @@ body
     margin: 0;
     overflow-x: hidden;
 }
+.nav-list{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0.5rem;
+    padding: 1rem
+}
+.nav.item{
+    margin: 0 1rem;
+    list-style: none;
+}
+.nav-item:first-child{
+    margin-right: auto;
+    padding: 5px;
+}
+h1{
+    margin-left: 800px;
+    font-size: 75px;
+    color: black;
+}
+.nav-item a{
+    text-decoration: none;
+    transition: all 200ms easy in;
+}
+a:hover{
+    color: white;
+}
+p{
+    margin-top: 0rem;
+    margin-left: 1rem;
+}
+.vl{
+    margin-left: 17rem;
+    border-left: 3px solid black;
+    height: 500px;
+}
