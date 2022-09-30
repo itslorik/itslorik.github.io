@@ -20,8 +20,9 @@ body
     padding: 5px;
 }
 h1{
-    margin-left: 800px;
-    font-size: 75px;
+    margin-top: 10px;
+    margin-left: 45px;
+    font-size: 50px;
     color: black;
 }
 .nav-item a{
@@ -42,4 +43,25 @@ p{
 }
 .class {
 	text-align: center;
+}
+.avatar {
+    margin-top: 40px;
+    margin-left: 80px;
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.btn-group {
+    width: 200px;
+    margin-left: 50px;
+}
+.liki{
+    width: 279px;
+}
+.nimi{
+    width: 279px;
+}
+.p{
+    margin-right: 200px;
 }
